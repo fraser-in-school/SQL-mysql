@@ -1,0 +1,1 @@
+select * from card where card_no = '12345' and password = '123456'
